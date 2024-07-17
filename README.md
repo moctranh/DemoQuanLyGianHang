@@ -1,5 +1,5 @@
 # DemoQuanLyGianHang
 
 * Ton Duc Thang University
-* Report Kien Tap Cong Nghiep
+* Report Dự án Công nghệ thông tin 1
 * MSSV: 51800802
